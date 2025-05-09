@@ -5,3 +5,4 @@ numpy
 cmake
 dlib
 face_recognition
+rich>=10.14.0
