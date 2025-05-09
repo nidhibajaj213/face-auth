@@ -3,6 +3,7 @@ streamlit-webrtc
 opencv-python
 numpy
 cmake
-dlib
+dlib==19.22.0  # Specific version of dlib
 face_recognition
 rich>=10.14.0
+
