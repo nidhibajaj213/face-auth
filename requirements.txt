@@ -3,7 +3,9 @@ streamlit-webrtc
 opencv-python
 numpy
 cmake
-dlib==19.22.0  # Specific version of dlib
+# Specify a version of dlib with pre-built wheels
+dlib==19.22.0
 face_recognition
+
 rich>=10.14.0
 
